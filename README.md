@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @onkar95
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning web developement
+- 🌱 I’m currently learning web developement,App Development
 - 💞️ I’m looking to collaborate on REACT or Javascript PROJECT
 - 📫 How to reach me kotuleonkar101@gmail.com
 
