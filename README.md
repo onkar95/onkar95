@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @onkar95
-- 👀 I’m interested in web development
+- 👀 I’m interested in frontend web development,Backend development,Full stack development
 - 🌱 I’m currently learning web developement,App Development
 - 💞️ I’m looking to collaborate on REACT or Javascript PROJECT
 - 📫 How to reach me kotuleonkar101@gmail.com
