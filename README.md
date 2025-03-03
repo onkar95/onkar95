@@ -1,24 +1,9 @@
-<!-- - 👋 Hi, I’m @onkar95
-- 👀 I’m interested in frontend web development,Backend development,Full stack development
-- 🌱 I’m currently learning web developement,App Development
-- 💞️ I’m looking to collaborate on REACT or Javascript PROJECT
-- 📫 How to reach me kotuleonkar101@gmail.com
-
-- MY Portfolio- https://onkarkotule.netlify.app/
-
-<!---
-onkar95/onkar95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
----> -->
-
 <h1 align="center">Hi 👋, I'm Onkar</h1>
 <h3 align="center">A passionate Full stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onkar95&label=Profile%20views&color=0e75b6&style=flat" alt="onkar95" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=onkar95" alt="onkar95" /></a> </p>
-
-- 🔭 I’m currently working on **Split-in**
+- 🌱 I’m currently learning **Nextjs, React Native,etc**
 
 - 👨‍💻 All of my projects are available at [https://onkarkotule.netlify.app/](https://onkarkotule.netlify.app/)
 
